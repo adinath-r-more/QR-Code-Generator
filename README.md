@@ -24,7 +24,7 @@ This project uses an **external QR Code API** to generate QR codes instantly fro
 ---
 
 ## 🌐 Live Demo
-👉 https://your-username.github.io/repository-name/
+👉 (https://adinath-r-more.github.io/QR-Code-Generator/)
 
 ---
 
